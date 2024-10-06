@@ -1,0 +1,273 @@
+IATA;NOMBRE;CIUDAD;ESTADO
+LAX;Los Angeles International;Los Angeles;CA
+SFO;San Francisco International;San Francisco;CA
+JFK;John F Kennedy Intl;New York;NY
+LAS;McCarran International;Las Vegas;NV
+ORD;Chicago OHare International;Chicago;IL
+STT;Cyril E. King;Charlotte Amalie;VI
+MIA;Miami International;Miami;FL
+DFW;Dallas-Fort Worth International;Dallas-Fort Worth;TX
+STL;Lambert-St Louis International;St Louis;MO
+IAH;George Bush Intercontinental;Houston;TX
+BNA;Nashville International;Nashville;TN
+OGG;Kahului;Kahului;HI
+HNL;Honolulu International;Honolulu;HI
+BOS;Gen Edw L Logan Intl;Boston;MA
+IAD;Washington Dulles International;Chantilly;VA
+EWR;Newark Intl;Newark;NJ
+SAN;San Diego International-Lindbergh;San Diego;CA
+DCA;Ronald Reagan Washington National;Arlington;VA
+KOA;Kona International At Keahole;Kailua/Kona;HI
+SEA;Seattle-Tacoma Intl;Seattle;WA
+TUS;Tucson International;Tucson;AZ
+MCO;Orlando International;Orlando;FL
+LIH;Lihue;Lihue;HI
+LGA;LaGuardia;New York;NY
+PHX;Phoenix Sky Harbor International;Phoenix;AZ
+SNA;John Wayne /Orange Co;Santa Ana;CA
+PSP;Palm Springs International;Palm Springs;CA
+SAT;San Antonio International;San Antonio;TX
+XNA;Northwest Arkansas Regional;Fayetteville/Springdale/Rogers;AR
+DEN;Denver Intl;Denver;CO
+RIC;Richmond International;Richmond;VA
+MFE;McAllen Miller International;McAllen;TX
+ELP;El Paso International;El Paso;TX
+MSP;Minneapolis-St Paul Intl;Minneapolis;MN
+OKC;Will Rogers World;Oklahoma City;OK
+MCI;Kansas City International;Kansas City;MO
+IND;Indianapolis International;Indianapolis;IN
+TPA;Tampa International;Tampa;FL
+PBI;Palm Beach International;West Palm Beach;FL
+SJU;Luis Munoz Marin International;San Juan;PR
+JAX;Jacksonville International;Jacksonville;FL
+AUS;Austin-Bergstrom International;Austin;TX
+BWI;Baltimore-Washington International;Baltimore;MD
+MEM;Memphis International;Memphis;TN
+RSW;Southwest Florida International;Ft. Myers;FL
+MSY;New Orleans International;New Orleans;LA
+SLC;Salt Lake City Intl;Salt Lake City;UT
+BUR;Burbank-Glendale-Pasadena;Burbank;CA
+ATL;William B Hartsfield-Atlanta Intl;Atlanta;GA
+SJC;San Jose International;San Jose;CA
+RDU;Raleigh-Durham International;Raleigh;NC
+BDL;Bradley International;Windsor Locks;CT
+PHL;Philadelphia Intl;Philadelphia;PA
+RNO;Reno/Tahoe International;Reno;NV
+ICT;Wichita Mid-Continent;Wichita;KS
+ABQ;Albuquerque International;Albuquerque;NM
+TUL;Tulsa International;Tulsa;OK
+COS;City of Colorado Springs Muni;Colorado Springs;CO
+PDX;Portland Intl;Portland;OR
+ORF;Norfolk International;Norfolk;VA
+SMF;Sacramento International;Sacramento;CA
+FAT;Fresno Yosemite International;Fresno;CA
+FLL;Fort Lauderdale-Hollywood Intl;Ft. Lauderdale;FL
+BHM;Birmingham International;Birmingham;AL
+DTW;Detroit Metropolitan-Wayne County;Detroit;MI
+GSO;Piedmont Triad International;Greensboro;NC
+SDF;Louisville International-Standiford;Louisville;KY
+HSV;Huntsville International;Huntsville;AL
+ONT;Ontario International;Ontario;CA
+CMH;Port Columbus Intl;Columbus;OH
+DAY;James M Cox Dayton Intl;Dayton;OH
+STX;Henry E. Rohlsen;Christiansted;VI
+CLT;Charlotte/Douglas International;Charlotte;NC
+OMA;Eppley Airfield;Omaha;NE
+EGE;Eagle County Regional;Eagle;CO
+SCC;Deadhorse;Deadhorse;AK
+ANC;Ted Stevens Anchorage International;Anchorage;AK
+OTZ;Ralph Wien Memorial;Kotzebue;AK
+OME;Nome;Nome;AK
+ADQ;Kodiak;Kodiak;AK
+BET;Bethel;Bethel;AK
+FAI;Fairbanks International;Fairbanks;AK
+BRW;Wiley Post Will Rogers Memorial;Barrow;AK
+KTN;Ketchikan International;Ketchikan;AK
+JNU;Juneau International;Juneau;AK
+CDV;Merle K (Mudhole) Smith;Cordova;AK
+YAK;Yakutat;Yakutat;AK
+SIT;Sitka;Sitka;AK
+PSG;James C. Johnson Petersburg;Petersburg;AK
+WRG;Wrangell;Wrangell;AK
+ADK;Adak;Adak;AK
+OAK;Metropolitan Oakland International;Oakland;CA
+LGB;Long Beach (Daugherty );Long Beach;CA
+GEG;Spokane Intl;Spokane;WA
+BUF;Buffalo Niagara Intl;Buffalo;NY
+ROC;Greater Rochester Intl;Rochester;NY
+SYR;Syracuse-Hancock Intl;Syracuse;NY
+BTV;Burlington International;Burlington;VT
+SRQ;Sarasota Bradenton International;Sarasota;FL
+SWF;Stewart;Newburgh;NY
+HPN;Westchester Cty;White Plains;NY
+PWM;Portland International Jetport;Portland;ME
+HOU;William P Hobby;Houston;TX
+BQN;Rafael Hernandez;Aguadilla;PR
+PSE;Mercedita;Ponce;PR
+PIT;Pittsburgh International;Pittsburgh;PA
+CLE;Cleveland-Hopkins Intl;Cleveland;OH
+BTR;Baton Rouge Metropolitan, Ryan;Baton Rouge;LA
+CVG;Cincinnati Northern Kentucky Intl;Covington;KY
+GSP;Greenville-Spartanburg;Greer;SC
+GPT;Gulfport-Biloxi Regional;Gulfport-Biloxi;MS
+TLH;Tallahassee Regional;Tallahassee;FL
+SAV;Savannah International;Savannah;GA
+DAB;Daytona Beach International;Daytona Beach;FL
+PNS;Pensacola Regional;Pensacola;FL
+MOB;Mobile Regional;Mobile;AL
+LIT;Adams;Little Rock;AR
+JAN;Jackson International;Jackson;MS
+CHS;Charleston AFB/International;Charleston;SC
+MLB;Melbourne International;Melbourne;FL
+VPS;Eglin Air Force Base;Valparaiso;FL
+BOI;Boise Air Terminal;Boise;ID
+CAK;Akron-Canton Regional;Akron;OH
+MKE;General Mitchell International;Milwaukee;WI
+CAE;Columbia Metropolitan;Columbia;SC
+TYS;McGhee-Tyson;Knoxville;TN
+LEX;Blue Grass;Lexington;KY
+PVD;Theodore F Green State;Providence;RI
+CHA;Lovell;Chattanooga;TN
+CHO;Charlottesville-Albermarle;Charlottesville;VA
+MGM;Montgomery Regional Apt;Montgomery;AL
+ILM;Wilmington International;Wilmington;NC
+CRW;Yeager;Charleston;WV
+ALB;Albany Cty;Albany;NY
+AVL;Asheville Regional;Asheville;NC
+ROA;Roanoke Regional/ Woodrum;Roanoke;VA
+MDT;Harrisburg Intl;Harrisburg;PA
+PFN;Panama City-Bay County International;Panama City;FL
+ABE;Lehigh Valley International;Allentown;PA
+MYR;Myrtle Beach International;Myrtle Beach;SC
+PHF;Newport News/Williamsburg International;Newport News;VA
+GNV;Gainesville Regional;Gainesville;FL
+FNT;Bishop;Flint;MI
+FAY;Fayetteville Municipal;Fayetteville;NC
+TRI;Tri-Cities Regional;Bristol;TN
+GRR;Kent County International;Grand Rapids;MI
+LAW;Lawton-Ft Sill Regional;Lawton;OK
+DHN;Dothan;Dothan;AL
+AGS;Bush;Augusta;GA
+CSG;Columbus Metropolitan;Columbus;GA
+SHV;Shreveport Regional;Shreveport;LA
+BQK;Glynco Jetport;Brunswick;GA
+VLD;Valdosta Regional;Valdosta;GA
+HHH;Hilton Head;NA;NA
+SGF;Springfield-Branson Regional;Springfield;MO
+LYH;Lynchburg Municipal-Preston Glenn;Lynchburg;VA
+BMI;Central Illinois Regional;Bloomington;IL
+FSM;Fort Smith Regional;Fort Smith;AR
+DSM;Des Moines International;Des Moines;IA
+MSN;Dane County Regional;Madison;WI
+OAJ;Albert J Ellis;Jacksonville;NC
+EVV;Evansville Regional;Evansville;IN
+FLO;Florence Regional;Florence;SC
+EWN;Craven County Regional;New Bern;NC
+MHT;Manchester;Manchester;NH
+GTR;Golden Triangle Regional;Columbus-Starkville-West Point;MS
+MLU;Monroe Regional;Monroe;LA
+MEI;Key;Meridian;MS
+MLI;Quad City;Moline;IL
+GRK;Robert Gray AAF;Killeen;TX
+LFT;Lafayette Regional;Lafayette;LA
+PIA;Greater Peoria Regional;Peoria;IL
+ATW;Outagamie County Regional;Appleton;WI
+FWA;Fort Wayne International;Fort Wayne;IN
+AVP;Wilkes-Barre/Scranton Intl;Wilkes-Barre/Scranton;PA
+CID;Eastern Iowa;Cedar Rapids;IA
+SBN;South Bend Regional;South Bend;IN
+AEX;Alexandria International;Alexandria;LA
+LWB;Greenbrier Valley;Lewisburg;WV
+ABY;Southwest Georgia Regional;Albany;GA
+EYW;Key West International;Key West;FL
+MDW;Chicago Midway;Chicago;IL
+ITO;Hilo International;Hilo;HI
+MQT;Marquette County Airport;NA;NA
+SBP;San Luis Obispo Co-McChesney;San Luis Obispo;CA
+SBA;Santa Barbara Municipal;Santa Barbara;CA
+MRY;Monterey Peninsula;Monterey;CA
+TXK;Texarkana Regional-Webb;Texarkana;AR
+CLL;Easterwood;College Station;TX
+ACT;Waco Regional;Waco;TX
+LBB;Lubbock International;Lubbock;TX
+CRP;Corpus Christi International;Corpus Christi;TX
+MAF;Midland International;Midland;TX
+GGG;Gregg County;Longview;TX
+AMA;Amarillo International;Amarillo;TX
+ABI;Abilene Regional;Abilene;TX
+CMI;University of Illinois-Willard;Champaign/Urbana;IL
+LRD;Laredo International;Laredo;TX
+TYR;Tyler Pounds;Tyler;TX
+ROW;Roswell Industrial Air Center;Roswell;NM
+GJT;Walker;Grand Junction;CO
+GRB;Austin Straubel International;Green Bay;WI
+RST;Rochester International;Rochester;MN
+LSE;La Crosse Municipal;La Crosse;WI
+TVC;Cherry Capital;Traverse City;MI
+AZO;Kalamazoo County;Kalamazoo;MI
+DAL;Dallas Love;Dallas;TX
+DBQ;Dubuque Municipal;Dubuque;IA
+CWA;Central Wisconsin;Mosinee;WI
+TOL;Toledo Express;Toledo;OH
+FAR;Hector International;Fargo;ND
+MBS;Mbs International;Saginaw;MI
+DLH;Duluth International;Duluth;MN
+BIS;Bismarck Municipal;Bismarck;ND
+GFK;Grand Forks International;Grand Forks;ND
+MOT;Minot International;Minot;ND
+FSD;Joe Foss;Sioux Falls;SD
+LAN;Capital City;Lansing;MI
+BIL;Billings Logan Intl;Billings;MT
+RAP;Rapid City Regional;Rapid City;SD
+BZN;Gallatin;Bozeman;MT
+HTS;Tri-State/Walker-Long;Huntington;WV
+BGR;Bangor International;Bangor;ME
+FCA;Glacier Park Intl;Kalispell;MT
+IDA;Idaho Falls Regional;Idaho Falls;ID
+PSC;Tri-Cities;Pasco;WA
+LWS;Lewiston-Nez Perce County;Lewiston;ID
+ACV;Arcata;Arcata/Eureka;CA
+BTM;Bert Mooney;Butte;MT
+EUG;Mahlon Sweet;Eugene;OR
+HLN;Helena Regional;Helena;MT
+MSO;Missoula International;Missoula;MT
+MFR;Rogue Valley International;Medford;OR
+COD;Yellowstone Regional;Cody;WY
+RDM;Roberts;Redmond;OR
+JAC;Jackson Hole;Jackson;WY
+CPR;Natrona County Intl;Casper;WY
+GTF;Great Falls Intl;Great Falls;MT
+BFL;Meadows;Bakersfield;CA
+IYK;Inyokern;Inyokern;CA
+SMX;Santa Maria Pub/Capt G Allan Hancock;Santa Maria;CA
+OXR;Oxnard;Oxnard;CA
+RDD;Redding Municipal;Redding;CA
+PMD;Palmdale Production Flight;Palmdale;CA
+CEC;Jack McNamara;Crescent City;CA
+SGU;St George Muni;St George;UT
+MOD;Modesto City-County-Harry Sham;Modesto;CA
+OTH;North Bend Muni;North Bend;OR
+YUM;Yuma MCAS-Yuma International;Yuma;AZ
+CIC;Chico Municipal;Chico;CA
+CLD;MC Clellan-Palomar Airport;NA;NA
+LMT;Klamath Falls International;Klamath Falls;OR
+IPL;Imperial County;Imperial;CA
+MTJ;Montrose Regional;Montrose;CO
+LNK;Lincoln Municipal;Lincoln;NE
+SPI;Capital;Springfield;IL
+HDN;Yampa Valley;Hayden;CO
+ASE;Aspen-Pitkin Co/Sardy;Aspen;CO
+CDC;Cedar City Muni;Cedar City;UT
+EKO;Elko Regional;Elko;NV
+PIH;Pocatello Regional;Pocatello;ID
+SUN;Friedman Memorial;Hailey;ID
+TWF;Joslin Field - Magic Valley;Twin Falls;ID
+GCC;Gillette-Campbell County;Gillette;WY
+RKS;Rock Springs-Sweetwater County;Rock Springs;WY
+HRL;Valley International;Harlingen;TX
+ISP;Long Island - MacArthur;Islip;NY
+LCH;Lake Charles Regional;Lake Charles;LA
+BRO;Brownsville/S.Padre Island International;Brownsville;TX
+FLG;Flagstaff Pulliam;Flagstaff;AZ
+DRO;Durango-La Plata County;Durango;CO
+GUC;Gunnison County;Gunnison;CO

@@ -1,0 +1,22 @@
+sqlldr2 a838819@barret.danae04.unizar.es control=meterObras.ctl;
+sqlldr2 a838819@barret.danae04.unizar.es control=meterPersona.ctl;
+sqlldr2 a838819@barret.danae04.unizar.es control=meterPeliculas.ctl;
+sqlldr2 a838819@barret.danae04.unizar.es control=meterSeries.ctl;
+sqlldr2 a838819@barret.danae04.unizar.es control=meterCapitulos.ctl;
+sqlldr2 a838819@barret.danae04.unizar.es control=meterRelaciones.ctl;
+sqlldr2 a838819@barret.danae04.unizar.es control=meterGenero.ctl;
+
+sqlldr2 a838819@barret.danae04.unizar.es control=meterActores.ctl;
+sqlldr2 a838819@barret.danae04.unizar.es control=meterDirectores.ctl;
+sqlldr2 a838819@barret.danae04.unizar.es control=meterStaff.ctl;
+
+
+sqlldr2 a838819@barret.danae04.unizar.es control=meterParticipa.ctl;
+sqlldr2 a838819@barret.danae04.unizar.es control=meterRelacion_Obr_Participa.ctl;
+sqlldr2 a838819@barret.danae04.unizar.es control=meterRelacion_Persona_Participa.ctl;
+
+
+
+
+
+Taroda2003

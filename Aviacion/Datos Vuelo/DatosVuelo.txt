@@ -1,0 +1,80 @@
+Cara tupla del fichero .csv hace referencia a la información de un vuelo
+El significado de cada columna de los datos es el siguiente:
+
+carrierCode : Código identificativo de la compañía que fleta el vuelo (El que aparece en los paneles informativos del aeropuerto).
+carrierName : Nombre completo de la compañía que fleta el vuelo.
+flightDate : Fecha del vuelo.
+tailNum : Matrícula del avión que realiza el vuelo.
+flightNum : Número de vuelo (El que aparece en los paneles informativos del aeropuerto).
+crsDepTime : Hora estimada de salida del vuelo (La que aparece en el billete).
+depTime : Hora real de salida del vuelo.
+wheelsOff : Hora de despegue del vuelo de la pista.
+wheelsOn : Hora de aterrizaje del vuelo en la pista.
+crsArrTime : Hora estimada de llegada del vuelo (La que aparece en el billete).
+arrTime : Hora real de llegada del vuelo.
+cancelled : Indica si el vuelo ha sido cancelado o no.
+diverted : Indica si el vuelo ha sido desviado o no.
+crsElapsedTime : Tiempo estimado de vuelo (Diferencia entre la hora estimada de salida y la de llegada).
+actualElapsedTime : Tiempo real de vuelo (Diferencia entre la hora de salida y llegada real).
+airTime : Tiempo del avión en el aire.
+distance : Distancia recorrida por el vuelo.
+carrierDelay : Tiempo de retraso del vuelo causado por la compañía que fleta el vuelo.
+weatherDelay : Tiempo de retraso del vuelo causado por condiciones meteorológicas.
+nasDelay : Tiempo de retraso del vuelo causado por el centro de control aéreo (NAS).
+securityDelay : Tiempo de retraso del vuelo causado por intervención de los servicios de seguridad del aeropuerto.
+lateAircraftDelay : Tiempo de retraso del vuelo causado por la llegada tardía del avión que realiza el vuelo.
+divAirportLandings : Intentos de aterrizaje del vuelo cuando es desviado.
+divReachedDest : Indicación de que los pasajeros del vuelo desviado han llegado a destino.
+divActualElapsedTime : Tiempo de vuelo debido a un desvío.
+divArrDelay : Retraso de llegada causado por el desvío del vuelo.
+divDistance : Distancia realizada por el desvío del vuelo.
+div1airport : Código del aeropuerto al que se ha desviado el vuelo.
+div1WheelsOn : Hora de aterrizaje en el aeropuerto del desvío.
+div1WheelsOff : Hora del despegue del aeropuerto del desvío.
+div1TailNum : Matricula del avión distinto al original con el que se realiza el vuelo del desvío.
+div2airport : Código del aeropuerto al que se ha realizado un segundo desvío del vuelo.
+div2WheelsOn : Hora de aterrizaje en el aeropuerto del segundo desvío.
+div2WheelsOff : Hora del despegue del aeropuerto del segundo desvío.
+div2TailNum : Matricula del avión distinto al original con el que se realiza el vuelo del segundo desvío.
+cancellationName : Causa de la cancelación del vuelo.
+planeManufacturer : Fabricante del avión que realiza el vuelo.
+planeModel : Modelo del avión que realiza el vuelo.
+planeAircraft_type : Tipo de avión que realiza el vuelo.
+plane_Engine_type : Tipo de los motores del avión que realiza el vuelo.
+planeYear : Año de compra del avión que realiza el vuelo.
+div1planeManufacturer : Fabricante del avión que realiza el desvío del vuelo.
+div1planeModel : Modelo del avión que realiza el desvío del vuelo.
+div1planeAircraft_type : Tipo de avión que realiza el desvío del vuelo.
+div1plane_Engine_type : Tipo de los motores del avión que realiza el desvío del vuelo.
+div1planeYear : Año de compra del avión que realiza el desvío del vuelo.
+div2planeManufacturer : Fabricante del avión que realiza el segundo desvío del vuelo.
+div2planeModel : Modelo del avión que realiza el segundo desvío del vuelo.
+div2planeAircraft_type : Tipo de avión que realiza el segundo desvío del vuelo.
+div2plane_Engine_type : Tipo de los motores del avión que realiza el segundo desvío del vuelo.
+div2planeYear : Año de compra del avión que realiza el segundo desvío del vuelo.
+originiata : Código del aeropuerto de salida del vuelo.
+originairport : Nombre del aeropuerto de salida del vuelo.
+origincity : Ciudad del aeropuerto de salida del vuelo.
+originstate : Estado del aeropuerto de salida del vuelo.
+origincountry : Pais del aeropuerto de salida del vuelo.
+originlat : Longitud geográfica del aeropuerto de salida del vuelo.
+originlon : Latitud geográfica del aeropuerto de salida del vuelo.
+destiata : Código del aeropuerto de llegada del vuelo.
+destairport : Nombre del aeropuerto de llegada del vuelo.
+destcity : Ciudad del aeropuerto de llegada del vuelo.
+deststate : Estado del aeropuerto de llegada del vuelo.
+destcountry : Pais del aeropuerto de llegada del vuelo.
+destlat : Longitud geográfica del aeropuerto de llegada del vuelo.
+destlon : Latitud geográfica del aeropuerto de llegada del vuelo.
+div1airportname : Nombre del aeropuerto del desvío del vuelo.
+div1city : Ciudad del aeropuerto del desvío del vuelo.
+div1state : Estado del aeropuerto del desvío del vuelo.
+div1country : País del aeropuerto del desvío del vuelo.
+div1lat : Longitud geográfica del aeropuerto del desvío del vuelo.
+div1lon : Latitud geográfica del aeropuerto del desvío del vuelo.
+div2airportname : Ciudad del aeropuerto del segundo desvío del vuelo.
+div2city : Estado del aeropuerto del segundo desvío del vuelo.
+div2state : Pais del aeropuerto del segundo desvío del vuelo.
+div2country : Longitud geográfica del aeropuerto del segundo desvío del vuelo.
+div2lat : Estado del aeropuerto del segundo desvío del vuelo.
+div2lon : Pais del aeropuerto del segundo desvío del vuelo.

@@ -1,0 +1,255 @@
+id_pelicula;Id_relacionada;link
+1727;2237;version of
+1729;5331;follows
+1774;2695;referenced in
+1776;5087;references
+1806;3222;followed by
+1847;2871;features
+1872;4873;featured in
+1919;3190;features
+1926;2879;featured in
+1927;2088;followed by
+1934;1960;references
+1934;2126;references
+1949;5160;referenced in
+1960;1934;referenced in
+2004;4447;features
+2004;5126;features
+2021;3819;referenced in
+2034;4433;featured in
+2065;2167;followed by
+2065;2553;followed by
+2078;3362;followed by
+2088;1927;follows
+2126;1934;referenced in
+2141;2854;referenced in
+2167;2065;follows
+2167;2169;version of
+2167;2553;followed by
+2169;2167;version of
+2203;3917;edited into
+2217;3310;referenced in
+2217;3688;referenced in
+2237;1727;version of
+2297;3105;referenced in
+2418;5196;references
+2451;2785;references
+2451;4846;references
+2453;2648;follows
+2553;2065;follows
+2553;2167;follows
+2569;5160;referenced in
+2576;2872;follows
+2576;3557;follows
+2576;3726;follows
+2586;3204;features
+2628;3823;references
+2636;2637;followed by
+2636;2657;references
+2636;5241;references
+2637;2636;follows
+2643;2715;follows
+2648;2453;followed by
+2657;2636;referenced in
+2695;1774;references
+2715;2643;followed by
+2729;5000;edited into
+2767;2768;followed by
+2768;2767;follows
+2776;2777;followed by
+2777;2776;follows
+2785;2451;referenced in
+2792;2888;references
+2801;2854;referenced in
+2840;4121;features
+2846;2847;followed by
+2847;2846;follows
+2854;2141;references
+2854;2801;references
+2854;3466;references
+2854;3834;references
+2854;4017;references
+2869;3118;follows
+2870;3710;follows
+2870;5087;featured in
+2871;1847;featured in
+2872;2576;followed by
+2872;3557;followed by
+2872;3726;follows
+2872;4024;followed by
+2879;1926;features
+2888;2792;referenced in
+2894;3640;references
+2894;4929;references
+2909;4884;featured in
+2954;5381;followed by
+2957;3599;remake of
+2965;2966;followed by
+2966;2965;follows
+2978;3744;referenced in
+3002;5255;references
+3030;3292;features
+3105;2297;references
+3105;4107;references
+3118;2869;followed by
+3121;3122;follows
+3122;3121;followed by
+3190;1919;featured in
+3198;5440;follows
+3204;2586;featured in
+3222;1806;follows
+3292;3030;featured in
+3310;2217;references
+3335;3705;references
+3335;4607;references
+3335;5161;references
+3348;5431;followed by
+3362;2078;follows
+3443;4001;follows
+3466;2854;referenced in
+3470;3471;remake of
+3471;3470;remade as
+3486;3487;features
+3486;3487;follows
+3487;3486;featured in
+3487;3486;followed by
+3489;5145;referenced in
+3490;4647;referenced in
+3492;4116;featured in
+3493;3628;follows
+3528;5509;edited from
+3552;3813;follows
+3557;2576;followed by
+3557;2872;follows
+3557;3726;follows
+3557;4024;followed by
+3599;2957;remade as
+3616;3819;referenced in
+3624;4194;version of
+3628;3493;followed by
+3640;2894;referenced in
+3640;4381;followed by
+3640;4588;followed by
+3657;5145;referenced in
+3673;4385;featured in
+3674;3839;followed by
+3674;3957;followed by
+3674;4561;followed by
+3688;2217;references
+3705;3335;referenced in
+3705;5491;references
+3710;2870;followed by
+3716;4074;referenced in
+3726;2576;followed by
+3726;2872;followed by
+3726;3557;followed by
+3726;4024;followed by
+3744;2978;references
+3769;5238;referenced in
+3813;3552;followed by
+3819;2021;references
+3819;3616;references
+3823;2628;referenced in
+3834;2854;referenced in
+3839;3674;follows
+3839;3957;followed by
+3839;4561;followed by
+3871;4000;follows
+3903;5160;referenced in
+3917;2203;edited from
+3940;3941;followed by
+3941;3940;follows
+3957;3674;follows
+3957;3839;follows
+3957;4561;followed by
+4000;3871;followed by
+4001;3443;followed by
+4017;2854;referenced in
+4022;4137;references
+4024;2872;follows
+4024;3557;follows
+4024;3726;follows
+4057;5427;remade as
+4074;3716;references
+4107;3105;referenced in
+4116;3492;features
+4121;2840;featured in
+4124;4626;edited from
+4124;4626;follows
+4124;4627;follows
+4137;4022;referenced in
+4140;4944;referenced in
+4163;5475;followed by
+4190;4319;edited from
+4194;3624;version of
+4319;4190;edited into
+4324;5082;edited into
+4381;3640;follows
+4381;4588;follows
+4385;3673;features
+4385;5161;referenced in
+4433;2034;features
+4447;2004;featured in
+4534;4693;version of
+4561;3674;follows
+4561;3839;follows
+4561;3957;follows
+4588;3640;follows
+4588;4381;followed by
+4607;3335;referenced in
+4607;5491;referenced in
+4626;4124;edited into
+4626;4124;followed by
+4626;4627;featured in
+4626;4627;followed by
+4627;4124;followed by
+4627;4626;features
+4627;4626;follows
+4647;3490;references
+4693;4534;version of
+4761;5160;referenced in
+4846;2451;referenced in
+4873;1872;features
+4884;2909;features
+4927;5020;follows
+4929;2894;referenced in
+4944;4140;references
+5000;2729;edited from
+5020;4927;followed by
+5082;4324;edited from
+5087;1776;referenced in
+5087;2870;features
+5126;2004;featured in
+5131;5132;followed by
+5131;5133;followed by
+5132;5131;follows
+5132;5133;followed by
+5133;5131;follows
+5133;5132;follows
+5145;3489;references
+5145;3657;references
+5160;1949;references
+5160;2569;references
+5160;3903;references
+5160;4761;references
+5161;3335;referenced in
+5161;4385;references
+5196;2418;referenced in
+5238;3769;references
+5241;2636;referenced in
+5255;3002;referenced in
+5331;1729;followed by
+5360;5361;followed by
+5360;5362;follows
+5361;5360;follows
+5361;5362;follows
+5362;5360;followed by
+5362;5361;followed by
+5381;2954;follows
+5427;4057;remake of
+5431;3348;follows
+5440;3198;followed by
+5475;4163;follows
+5491;3705;referenced in
+5491;4607;references
+5509;3528;edited into

@@ -1,0 +1,9 @@
+sqlldr2 a838819@barret.danae04.unizar.es control=meterDiv.ctl
+sqlldr2 a838819@barret.danae04.unizar.es control=meterTemp.ctl;
+sqlldr2 a838819@barret.danae04.unizar.es control=meterJornada.ctl;
+sqlldr2 a838819@barret.danae04.unizar.es control=meterEstadios.ctl;
+sqlldr2 a838819@barret.danae04.unizar.es control=meterEquipo.ctl;
+sqlldr2 a838819@barret.danae04.unizar.es control=meterPartidos.ctl;
+sqlldr2 a838819@barret.danae04.unizar.es control=meterOtrosNombres.ctl;
+
+Se tienen ejecutar en orden desde lab000. Aseguraros de que tanto las tablas csv como los ctl estan en "formato" linux

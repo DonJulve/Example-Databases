@@ -1,0 +1,32 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "desktop.ini": true,
+        ".vscode": true,
+        "SQL/desktop.ini": true,
+        "SQL/Consultas/desktop.ini": true,
+        "SQL/Triggers/desktop.ini": true,
+        "Datos Vuelo/desktop.ini": true,
+        "Arbol Sintactico/desktop.ini": true,
+        "esquemas": true,
+        "Datos Vuelo/csv/desktop.ini": true,
+        "Datos Vuelo/ctl/desktop.ini": true
+    },
+    "hide-files.files": [
+        "desktop.ini",
+        ".vscode",
+        "SQL/desktop.ini",
+        "SQL/Consultas/desktop.ini",
+        "SQL/Triggers/desktop.ini",
+        "Datos Vuelo/desktop.ini",
+        "Arbol Sintactico/desktop.ini",
+        "esquemas",
+        "Datos Vuelo/csv/desktop.ini",
+        "Datos Vuelo/ctl/desktop.ini"
+    ]
+}
